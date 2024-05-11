@@ -2,8 +2,8 @@
 <h3 align="center">A undergraduate at Sabaragamuwa University of Sri Lanka and a Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalinmdusu&label=Profile%20views&color=0e75b6&style=flat" alt="kalinmdusu" /> </p>
-- - - 
 
+---
 - 👨‍💻 All of my projects are available at [https://github.com/Kalindusu](https://github.com/Kalindusu)
 
 - 📝 I regularly write articles on [https://medium.com/@sudarakakalindu20](https://medium.com/@sudarakakalindu20)
