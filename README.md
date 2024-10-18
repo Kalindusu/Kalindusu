@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sudarakakalindu20](https://medium.com/@sudarakakalindu20)
 
-- 💬 Ask me about **react,nodejs,expressjs,springboot,mongodb,mysql**
+- 💬 Ask me about **React, Node.js, Express.js, Spring Boot, MongoDB, MySQL**
 
 - 📫 How to reach me **sudarakakalindu20@gmail.com**
 
