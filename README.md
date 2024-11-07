@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalinmdusu&label=Profile%20views&color=0e75b6&style=flat&count=800" alt="kalinmdusu" /> </p>
 
 ---
-- 👨‍💻 All of my projects are available at [https://github.com/Kalindusu](https://github.com/Kalindusu)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kalindu-portfolio-new.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sudarakakalindu20](https://medium.com/@sudarakakalindu20)
 
